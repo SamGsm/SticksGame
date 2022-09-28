@@ -1,1 +1,1 @@
-# SticksGame
+# My first python's game
